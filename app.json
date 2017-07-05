@@ -1,0 +1,16 @@
+{
+  "name": "receita",
+  "description": "massa de pizza",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
